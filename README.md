@@ -34,6 +34,15 @@ This project demonstrates a clean separation of **Frontend (React)** and **Backe
 - JWT (structure ready)
 
 ---
+<img width="1470" height="956" alt="Screenshot 2025-12-19 at 7 54 39 PM" src="https://github.com/user-attachments/assets/5b09b6f5-5c62-46cd-877e-2023862dc843" />
+<img width="1470" height="956" alt="Screenshot 2025-12-19 at 7 54 56 PM" src="https://github.com/user-attachments/assets/6de54bd9-372e-4ed2-ae59-856b4a536a87" />
+## 🌐 Live Demo
+
+This project runs locally on the development server.
+
+After starting the frontend, the application is available at:
+http://localhost:5173
+
 
 ## 📁 Project Structure
 
@@ -47,12 +56,3 @@ Ziksir-MERN-stack-
 ├── README.md
 ├── .gitignore
 └── other config files
-<img width="1470" height="956" alt="Screenshot 2025-12-19 at 7 54 39 PM" src="https://github.com/user-attachments/assets/5b09b6f5-5c62-46cd-877e-2023862dc843" />
-<img width="1470" height="956" alt="Screenshot 2025-12-19 at 7 54 56 PM" src="https://github.com/user-attachments/assets/6de54bd9-372e-4ed2-ae59-856b4a536a87" />
-## 🌐 Live Demo
-
-This project runs locally on the development server.
-
-After starting the frontend, the application is available at:
-http://localhost:5173
-
