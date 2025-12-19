@@ -37,7 +37,7 @@ This project demonstrates a clean separation of **Frontend (React)** and **Backe
 This project runs locally on the development server.
 
 After starting the frontend, the application is available at:
-http://localhost:5173
+https://ziksir-mern-stack-8bz1cwqqv-prabhat-kumars-projects-bdba6b0e.vercel.app/
 
 
 ## 📁 Project Structure
