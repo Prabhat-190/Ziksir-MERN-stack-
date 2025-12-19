@@ -1,7 +1,3 @@
-# Ziksir MERN Notes App
-
-Author: Prabhat Kumar (IIT Kharagpur)
-
 # 🚀 Ziksir – MERN Stack Application
 
 A full-stack MERN application built as part of the **Ziksir Internship Task**.  
